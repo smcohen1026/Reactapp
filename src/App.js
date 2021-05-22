@@ -14,11 +14,10 @@ function App() {
         <div className="container">
           <div className="Left_section_wrapper">
             <h1 className="headerliner">
-              Learn to code by watching others
-            </h1>
+              Learn to code by watching others</h1>
             <h3 className="description">
-              See how experienced developers solve problems in real-time. Watching tutorials great,
-              but understanding how developers think is invaluable.
+              See how experienced developers solve problems in real-time. 
+              Watching tutorials great, but understanding how developers think is invaluable.
             </h3>
           </div>
           <div className="right_section_wrapper">
